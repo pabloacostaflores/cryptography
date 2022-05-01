@@ -1,0 +1,6 @@
+autopep8==1.6.0
+Pillow==9.1.0
+pycodestyle==2.8.0
+pycrypto==2.6.1
+tk==0.1.0
+toml==0.10.2
